@@ -17,7 +17,7 @@
 /* Edit width based on number of tabs to display
 In this example, width = 9% for 10 tabs + cell borders */
 .tabItem {
-    width: 9%;
+    width: 8.3%;
     padding: 2px 0px 2px 0px;
     float: left;
     margin-left: -1px;

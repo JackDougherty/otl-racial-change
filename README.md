@@ -1,8 +1,14 @@
 # otl-racial-change
 Leaflet tabbed polygon map of racial change since 1900 in Hartford County, Connecticut
 
-## work-in-progress
+## Demo
 - http://jackdougherty.github.io/otl-racial-change
 
+## Credits
+- Thanks @ilyankou for coding tabbed interface and data from GeoJSON layers
+- Thanks @CTMirror for the original design
+
 ## To do
-- rewrite the existing code (from http://jackdougherty.github.io/otl-home-value/index-frame.html) to add/remove GeoJSON from layer folder for each decade (currently three: 1900, 1910, 1920), since this racial change map had different geographic boundaries (wards, tracts, towns) for each year of census data
+- create all map layers from the original KMLs
+- join data from the original spreadsheet (and compare with other sources)
+- revise color scheme and info window display (as percentages) to tell the story

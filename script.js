@@ -31,30 +31,27 @@ $.getJSON("layers/" + year + ".geojson", function (data) {
   }).addTo(map);
 });
 
-// places a star on state capital of Hartford, CT
-var starIcon = L.icon({
-  iconUrl: 'star-18.png',
-  iconRetinaUrl: 'star-18@2x.png',
-  iconSize: [18, 18]
-});
-L.marker([41.764, -72.682], {icon: starIcon}).addTo(map);
-
 // Edit range cutoffs and colors to match your data; see http://colorbrewer.org
+// colors drawn from http://colorbrewer2.org/?type=sequential&scheme=Oranges&n=9
 // Any values not listed in the ranges below displays as the last color
 function getColor(d) {
-  return d > 0.8 ? '#006d2c' :
-  d > 0.6 ? '#31a354' :
-  d > 0.4 ? '#74c476' :
-  d > 0.2 ? '#bae4b3' :
-  d >= 0.0 ? '#edf8e9' :
-  'white' ;
+  return d > 98 ? '#fff5eb' :
+  d > 90 ? '#fee6ce' :
+  d > 75 ? '#fdd0a2' :
+  d > 60 ? '#fdae6b' :
+  d > 40 ? '#fd8d3c' :
+  d > 25 ? '#f16913' :
+  d > 10 ? '#d94801' :
+  d > 02 ? '#a63603' :
+  d >= 0 ? '#7f2704' :
+  'gray' ;
 }
 
 // Edit the getColor property to match data properties in your GeoJSON layers
 // In this example, columns follow this pattern: index1910, index1920...
 function style(feature) {
   return {
-    fillColor: getColor(parseFloat(feature.properties.temp)),
+    fillColor: getColor(parseFloat(feature.properties.pctw)),
     weight: 1,
     opacity: 1,
     color: 'black',
@@ -104,8 +101,8 @@ info.update = function (props) {
   var areaValue = "--";
 
   if (props) {
-    areaName = props.name;
-    areaValue = checkNull(props.temp);
+    areaName = props.town;
+    areaValue = checkNull(props.pctw);
   }
 
   this._div.innerHTML = '<div class="areaName">' + areaName +
@@ -138,7 +135,7 @@ $(".tabItem").click(function() {
 var legend = L.control({position: 'bottomright'});
 legend.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'info legend'),
-  grades = [0, 0.2, 0.4, 0.6, 0.8],
+  grades = [0, 2, 10, 25, 40, 60, 75, 90, 98],
   labels = [],
   from, to;
   for (var i = 0; i < grades.length; i++) {

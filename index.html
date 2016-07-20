@@ -2,12 +2,12 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Leaflet map polygon tabs</title>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.css" />
+    <title>otl-racial-change</title>
+    <!-- Load Leaflet from a https CDN, not http. Look for updates at http://leafletjs.com/download.html -->
+    <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
     <link rel="stylesheet" href="style.css" />
   </head>
   </body>
-  <!-- This div displays the container, tabs, and map; add title and caption if desired -->
   <div class="interactiveContainer">
     <div class="tabBar">
       <!-- Edit the labels for each tab, such as "1910" -->
@@ -26,8 +26,10 @@
     </div>
       <div id="map"></div>
     </div>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script type="text/javascript" src="http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.js"></script>
+    <!-- Load Leaflet from a https CDN, not http. Look for updates at http://leafletjs.com/download.html -->
+    <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
+    <!-- load jQuery  -->
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="script.js"></script>
   </body>
 </html>

@@ -97,17 +97,25 @@ info.onAdd = function (map) {
 // Edit info box labels (such as props.name) to match properties of the GeoJSON data
 info.update = function (props) {
   var areaName = "Hover over areas";
-  var areaLabel = "Percent White";
-  var areaValue = "--";
+  var areaLabelT = "Tract";
+  var areaLabelW = "White";
+  var areaLabelNW = "NonWhite";
+  var areaValueT = "--";
+  var areaValueW = "--";
+  var areaValueNW = "--";
 
   if (props) {
     areaName = props.town;
-    areaValue = checkNull(props.pctw);
+    areaValueT = checkNull(props.tract);
+    areaValueW = checkNull(props.pctw);
+    areaValueNW = checkNull(props.pctnw);
   }
 
   this._div.innerHTML = '<div class="areaName">' + areaName +
-  '</div><div class="areaLabel"><div class="areaValue">' + areaLabel +
-  '</div>' + areaValue + '</div>';
+  '</div><div class="areaLabel"><div class="areaValue">' + areaLabelT +
+  '</div>' + areaValueT + '</div>' +
+  areaLabelW + '</div>' + areaValueW + '&#37;</div>' +
+  areaLabelNW + '</div>' + areaValueNW + '&#37;</div>';
 };
 info.addTo(map);
 
@@ -131,7 +139,7 @@ $(".tabItem").click(function() {
 });
 
 // Edit grades in legend to match the range cutoffs inserted above
-// In this example, the last grade will appear as "2+"
+// In this example, the last grade will appear as "98+"
 var legend = L.control({position: 'bottomright'});
 legend.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'info legend'),

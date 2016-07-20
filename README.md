@@ -9,9 +9,10 @@ Leaflet tabbed polygon map of racial change since 1900 in Hartford County, Conne
 - Thanks @CTMirror for the original design
 
 ## To do
-- create all map layers from the original KMLs
-- join data from the original spreadsheet (and compare with other sources)
-- revise color scheme and info window display (as percentages) to tell the story
+
+- FIX up info box with correct divs, and add pop with check for commas
+- create all map layers from the original GIS shapefile (otherwise, clean up KMLS and join with clean CSV and compare with other sources)
+- insert "percent white" at top of legend; find example how
 
 cite NHGIS
 

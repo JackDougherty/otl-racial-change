@@ -112,10 +112,10 @@ info.update = function (props) {
   }
 
   this._div.innerHTML = '<div class="areaName">' + areaName +
-  '</div><div class="areaLabel"><div class="areaValue">' + areaLabelT +
-  '</div>' + areaValueT + '</div>' +
-  areaLabelW + '</div>' + areaValueW + '&#37;</div>' +
-  areaLabelNW + '</div>' + areaValueNW + '&#37;</div>';
+  '</div><div class="areaLabel"><div class="areaValue">' + areaValueT
+  + areaLabelT + '<br />' +
+  areaValueW + ' &#37;' + areaLabelW + '<br />' +
+  areaValueNW + ' &#37;' + areaLabelNW + '</div>';
 };
 info.addTo(map);
 

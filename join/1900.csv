@@ -1,0 +1,39 @@
+join,town,area,num,pop,pctw,pctnw
+Hartford1,Hartford,ward,1,8364,98,2
+Hartford2,Hartford,ward,2,9771,98,0
+Hartford3,Hartford,ward,3,8519,93,0
+Hartford4,Hartford,ward,4,7302,97,0
+Hartford5,Hartford,ward,5,5558,95,0
+Hartford6,Hartford,ward,6,6433,99,0
+Hartford7,Hartford,ward,7,9200,100,0
+Hartford8,Hartford,ward,8,8539,99,0
+Hartford9,Hartford,ward,9,7677,99,0
+Hartford10,Hartford,ward,10,8487,99,0
+Avon,Avon,town,,1302,100,0
+Berlin,Berlin,town,,3448,99,1
+Bloomfield,Bloomfield,town,,1513,97,3
+Bristol,Bristol,town,,9643,100,0
+Burlington,Burlington,town,,1218,100,0
+Canton,Canton,town,,2678,99,1
+East Granby,East Granby,town,,684,99,1
+East Hartford,East Hartford,town,,6406,99,1
+East Windsor,East Windsor,town,,3158,99,1
+Enfield,Enfield,town,,6699,100,1
+Farmington,Farmington,town,,3331,99,1
+Glastonbury,Glastonbury,town,,4260,98,1
+Granby,Granby,town,,1299,99,0
+Hartland,Hartland,town,,592,100,0
+Manchester,Manchester,town,,10601,100,0
+Marlborough,Marlborough,town,,322,100,0
+New Britain,New Britain,town,,28202,100,1
+Newington,Newington,town,,1041,98,1
+Plainville,Plainville,town,,2189,95,5
+Rocky Hill,Rocky Hill,town,,1026,100,0
+Simsbury,Simsbury,town,,2094,99,1
+South Windsor,South Windsor,town,,5890,100,0
+Southington,Southington,town,,2014,99,1
+Suffield,Suffield,town,,3521,97,4
+West Hartford,West Hartford,town,,3186,98,3
+Wethersfield,Wethersfield,town,,2637,97,3
+Windsor,Windsor,town,,3614,96,5
+Windsor Locks,Windsor Locks,town,,3062,100,1

@@ -97,25 +97,25 @@ info.onAdd = function (map) {
 // Edit info box labels (such as props.name) to match properties of the GeoJSON data
 info.update = function (props) {
   var areaName = "Hover over areas";
-  var areaLabelT = "Tract";
-  var areaLabelW = "White";
-  var areaLabelNW = "NonWhite";
-  var areaValueT = "--";
-  var areaValueW = "--";
-  var areaValueNW = "--";
+  var areaValueP = " ";
+  var areaValueW = " ";
+  var areaValueNW = " ";
+  var areaLabelP = "population";
+  var areaLabelW = "white";
+  var areaLabelNW = "non-white";
 
   if (props) {
-    areaName = props.town;
-    areaValueT = checkNull(props.tract);
+    areaName = props.town + " " + props.area + " " + checkNull(props.num);
+    areaValueP = checkNull(props.pop);
     areaValueW = checkNull(props.pctw);
     areaValueNW = checkNull(props.pctnw);
   }
 
   this._div.innerHTML = '<div class="areaName">' + areaName +
-  '</div><div class="areaLabel"><div class="areaValue">' + areaValueT
-  + areaLabelT + '<br />' +
-  areaValueW + ' &#37;' + areaLabelW + '<br />' +
-  areaValueNW + ' &#37;' + areaLabelNW + '</div>';
+  '</div><div class="areaLabel"><div class="areaValue">' +
+  areaValueP + ' ' + areaLabelP + '<br />' +
+  areaValueW + '&#37; ' + areaLabelW + '<br />' +
+  areaValueNW + '&#37; ' + areaLabelNW + '</div>';
 };
 info.addTo(map);
 
@@ -158,12 +158,12 @@ legend.onAdd = function (map) {
   };
   legend.addTo(map);
 
-  // In info.update, this checks if GeoJSON data contains a null value, and if so displays "--"
+  // In info.update, this checks if GeoJSON data contains a null value, and if so displays a blank space (" ")
   function checkNull(val) {
     if (val != null || val == "NaN") {
       return comma(val);
     } else {
-      return "--";
+      return " ";
     }
   }
 

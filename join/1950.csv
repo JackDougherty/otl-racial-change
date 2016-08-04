@@ -1,0 +1,80 @@
+gisjoin,town,area,num,pop,pctw,pctnw
+Avon,Avon,town,,3171,100,0
+Berlin,Berlin,town,,7470,99,1
+Bristol,Bristol,town,,35961,100,0
+Burlington,Burlington,town,,1846,100,0
+Canton,Canton,town,,3613,100,0
+East Granby,East Granby,town,,1327,97,3
+East Windsor,East Windsor,town,,4859,98,2
+Enfield,Enfield,town,,15464,99,1
+Farmington,Farmington,town,,7026,99,1
+Glastonbury,Glastonbury,town,,8818,99,1
+Granby,Granby,town,,2693,100,0
+Hartland,Hartland,town,,549,100,0
+Manchester,Manchester,town,,34116,100,0
+Marlborough,Marlborough,town,,901,99,1
+New Britain,New Britain,town,,73726,99,1
+Plainville,Plainville,town,,9994,98,2
+Rocky Hill,Rocky Hill,town,,5108,99,1
+Simsbury,Simsbury,town,,4822,99,1
+Southington,Southington,town,,4066,100,0
+South Windsor,South Windsor,town,,13061,99,1
+Suffield,Suffield,town,,4895,96,4
+Windsor Locks,Windsor Locks,town,,5221,99,1
+G09000300008,Hartford,tract,8,1830,53,47
+G09000300011,Hartford,tract,11,6732,82,18
+G0900030C0011,East Hartford,tract,C11,6549,99,1
+G09000300002,Hartford,tract,2,3459,100,0
+G09000300009,Hartford,tract,9,5534,8,92
+G09000300029,Hartford,tract,29,1808,99,1
+G09000300007,Hartford,tract,7,4138,61,39
+G09000300015,Hartford,tract,15,3194,81,19
+G09000300021,Hartford,tract,21,6484,99,1
+G09000300010,Hartford,tract,10,3685,86,14
+G09000300037,Hartford,tract,37,5356,99,1
+G09000300039,Hartford,tract,39,4728,100,0
+G09000300005,Hartford,tract,5,3572,100,0
+G09000300014,Hartford,tract,14,2592,94,6
+G09000300028,Hartford,tract,28,6121,100,0
+G09000300016,Hartford,tract,16,6312,83,17
+G0900030C0003,West Hartford,tract,C3,9329,100,0
+G09000300026,Hartford,tract,26,3780,100,0
+G09000300012,Hartford,tract,12,3676,100,0
+G09000300030,Hartford,tract,30,2703,100,0
+G09000300033,Hartford,tract,33,1181,98,2
+G09000300040,Hartford,tract,40,14032,97,3
+G09000300032,Hartford,tract,32,2299,99,1
+G0900030C0005,West Hartford,tract,C5,8734,100,0
+G0900030C0016,Newington,tract,C16,9110,100,0
+G09000300018,Hartford,tract,18,2068,100,0
+G0900030C0007,Bloomfield,tract,C7,5746,96,4
+G09000300001,Hartford,tract,1,3846,100,0
+G09000300019,Hartford,tract,19,2892,96,4
+G0900030C0006,West Hartford,tract,C6,7740,99,1
+G0900030C0012,East Hartford,tract,C12,6035,99,1
+G0900030C0004,West Hartford,tract,C4,6873,100,0
+G09000300006,Hartford,tract,6,2562,95,5
+G0900030C0001,West Hartford,tract,C1,3528,100,0
+G0900030C0014,Wethersfield,tract,C14,3684,96,4
+G09000300004,Hartford,tract,4,3024,100,0
+G0900030C0009,Windsor,tract,C9,3813,95,5
+G09000300017,Hartford,tract,17,1551,100,0
+G0900030C0010,East Hartford,tract,C10,7244,100,0
+G09000300036,Hartford,tract,36,2197,100,0
+G0900030C0015,Wethersfield,tract,C15,8849,100,0
+G09000300022,Hartford,tract,22,2778,97,3
+G09000300025,Hartford,tract,25,5260,100,0
+G09000300020,Hartford,tract,20,4525,99,1
+G0900030C0002,West Hartford,tract,C2,8198,100,0
+G09000300027,Hartford,tract,27,3790,100,0
+G09000300038,Hartford,tract,38,3443,100,0
+G09000300031,Hartford,tract,31,4400,100,0
+G09000300013,Hartford,tract,13,4799,94,6
+G09000300003,Hartford,tract,3,7227,100,0
+G09000300023,Hartford,tract,23,5333,100,0
+G0900030C0013,East Hartford,tract,C13,10105,98,2
+G09000300034,Hartford,tract,34,4050,98,2
+G09000300035,Hartford,tract,35,8672,100,0
+G09000300024,Hartford,tract,24,5782,100,0
+G0900030C0008,Windsor,tract,C8,8020,99,1
+G09000300041,Hartford,tract,41,5982,99,1

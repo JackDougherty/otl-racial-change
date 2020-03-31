@@ -3,7 +3,7 @@
     font-family: Arial, sans-serif;
 }
 /* Edit top to fit tabBar height: 35px */
-/* Edit height to display full map: 500px */
+/* Edit height to display full map 500px, limited due to zoom level for Hartford County */
 #map {
     position: absolute;
     left: 0;
@@ -12,12 +12,13 @@
     height: 500px;
 }
 .tabBar {
-    font: 14px/16px Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /* Edit width based on number of tabs to display
-In this example, width = 9% for 10 tabs + cell borders */
+In this example, width = 100% divided by 13 = 7.6% */
 .tabItem {
-    width: 8.3%;
+    width: 7.6%;
     padding: 2px 0px 2px 0px;
     float: left;
     margin-left: -1px;
@@ -56,51 +57,46 @@ In this example, width = 9% for 10 tabs + cell borders */
 }
 /*Edit width of info box */
 .info {
-    width: 200px;
+    width: 250px;
     padding: 12px 16px;
-    font: 14px/16px Arial, Helvetica, sans-serif;
-    background: white;
-    background: rgba(255,255,255,0.8);
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    border-radius: 5px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-.info h4 {
-    margin: 0 0 5px;
-    color: #777;
+.info h2 {
+    font-size: 15px;
+    margin: 0;
 }
-.areaName {
-    font-size: 17px;
-    font-weight: bold;
-    margin-bottom: 10px;
+.info p {
+    margin: 0;
 }
-.faded {
-    opacity: 0.4;
-}
-.areaLabel {
-    float: left;
-    width: 100%;
-    font-family: Arial, sans-serif;
-}
-.areaValue {
-    float: left;
-    width: 70%;
-    font-size: 14px;
-    font-family: Arial, sans-serif;
-}
+
 /*Edit width of legend*/
 .legend {
     width: 100px;
-    position: absolute;
-    right: 0px;
-    bottom: 10px;
-    text-align: left;
     line-height: 18px;
     color: #555;
 }
 .legend i {
-  width: 18px;
-  height: 18px;
-  float: left;
-  margin-right: 8px;
-  opacity: 0.7;
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+}
+.legend h4 {
+  margin: 0;
+}
+
+.control-custom {
+  background-color: rgba(255,255,255,1);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 8px 10px;
+}
+
+#rangeSlider {
+  width: 100px;
+}
+
+.range h4 {
+  margin: 0;
 }

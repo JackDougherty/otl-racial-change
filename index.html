@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>otl-racial-change</title>
-    <!-- Load Leaflet from a https CDN, not http. Look for updates at http://leafletjs.com/download.html -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  </body>
+<head>
+  <title>otl-racial-change</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5488840-4"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-5488840-4');
+  </script>
+
+  <!-- Load Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
   <div class="interactiveContainer">
     <div class="tabBar">
       <!-- Edit the labels for each tab, such as "1910" -->
@@ -23,13 +36,21 @@
       <div id="tab10" class="tabItem">1990</div>
       <div id="tab11" class="tabItem">2000</div>
       <div id="tab12" class="tabItem">2010</div>
+      <div id="tab13" class="tabItem">2018</div>
     </div>
-      <div id="map"></div>
-    </div>
-    <!-- Load Leaflet from a https CDN, not http. Look for updates at http://leafletjs.com/download.html -->
-    <script src="https://unpkg.com/leaflet@1.0.0-rc.1/dist/leaflet.js"></script>
-    <!-- load jQuery  -->
-    <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="script.js"></script>
-  </body>
+
+    <div id="map"></div>
+
+  </div>
+
+  <!-- Load Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+  <!-- load jQuery from CDN -->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+	integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+	crossorigin="anonymous"></script>
+  <script type="text/javascript" src="scripts/leaflet-hash.js"></script>
+  <script type="text/javascript" src="scripts/script.js"></script>
+
+</body>
 </html>

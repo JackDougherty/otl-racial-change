@@ -1,0 +1,60 @@
+﻿gisjoin,town,area,num,pop,pctwnh,White,Native white,Foreign-born white,Negro,Source
+Hartford1,Hartford,ward,1,14890,100,14843,10817,4026,43,1930 Census report
+Hartford2,Hartford,ward,2,16705,89,14915,9107,5808,1739,1930 Census report
+Hartford3,Hartford,ward,3,13051,78,10152,6744,3408,2898,1930 Census report
+Hartford4,Hartford,ward,4,9457,99,9357,6239,3128,90,1930 Census report
+Hartford5,Hartford,ward,5,11570,89,10353,6835,3517,1211,1930 Census report
+Hartford6,Hartford,ward,6,6505,99,6409,4828,1581,77,1930 Census report
+Hartford7,Hartford,ward,7,12781,99,12632,9575,3057,144,1930 Census report
+Hartford8,Hartford,ward,8,10844,100,10838,8704,2134,6,1930 Census report
+Hartford9,Hartford,ward,9,14694,100,14661,9106,5555,32,1930 Census report
+Hartford10,Hartford,ward,10,6828,98,6700,5087,1613,126,1930 Census report
+Hartford11,Hartford,ward,11,9066,100,9037,7197,1840,28,1930 Census report
+Hartford12,Hartford,ward,12,10866,100,10814,8425,2389,49,1930 Census report
+Hartford13,Hartford,ward,13,7018,100,6991,5611,1380,27,1930 Census report
+Hartford14,Hartford,ward,14,8555,100,8517,6308,2209,36,1930 Census report
+Hartford15,Hartford,ward,15,11242,100,11238,8355,2883,4,1930 Census report
+Bloomfield91,Bloomfield,district,91,973,99,964,,,9,1930 Census manuscript
+Bloomfield92,Bloomfield,district,92,27,100,27,,,0,1930 Census manuscript
+Bloomfield93,Bloomfield,district,93,2368,95,2256,,,112,1930 Census manuscript
+West Hartford220,West Hartford,district,220,2176,99,2149,,,27,1930 Census manuscript
+West Hartford221,West Hartford,district,221,238,99,235,,,3,1930 Census manuscript
+West Hartford222,West Hartford,district,222,1043,98,1021,,,22,1930 Census manuscript
+West Hartford223,West Hartford,district,223,234,99,232,,,2,1930 Census manuscript
+West Hartford224,West Hartford,district,224,177,100,177,,,0,1930 Census manuscript
+West Hartford225,West Hartford,district,225,2280,100,2272,,,8,1930 Census manuscript
+West Hartford226,West Hartford,district,226,2465,99,2429,,,36,1930 Census manuscript
+West Hartford227,West Hartford,district,227,2046,100,2038,,,8,1930 Census manuscript
+West Hartford228,West Hartford,district,228,6507,100,6486,,,21,1930 Census manuscript
+West Hartford229,West Hartford,district,229,1222,100,1222,,,0,1930 Census manuscript
+West Hartford230,West Hartford,district,230,55,100,55,,,0,1930 Census manuscript
+West Hartford231,West Hartford,district,231,2198,100,2198,,,0,1930 Census manuscript
+West Hartford232,West Hartford,district,232,1846,100,1846,,,0,1930 Census manuscript
+West Hartford233,West Hartford,district,233,69,100,69,,,0,1930 Census manuscript
+West Hartford234,West Hartford,district,234,2533,100,2531,,,2,1930 Census manuscript
+Avon,Avon,town,,1738,100,1733,1318,415,5,1930 Census report
+Berlin,Berlin,town,,4875,99,4811,3592,1219,64,1930 Census report
+Bristol,Bristol,town,,28451,100,28327,21001,7326,108,1930 Census report
+Burlington,Burlington,town,,1082,99,1076,810,266,6,1930 Census report
+Canton,Canton,town,,2397,99,2369,1920,449,28,1930 Census report
+East Granby,East Granby,town,,1003,97,977,773,204,26,1930 Census report
+East Hartford,East Hartford,town,,17125,99,17010,13750,3260,115,1930 Census report
+East Windsor,East Windsor,town,,3815,99,3782,3132,650,32,1930 Census report
+Enfield,Enfield,town,,13404,100,13370,9825,3545,31,1930 Census report
+Farmington,Farmington,town,,4548,100,4535,3655,880,13,1930 Census report
+Glastonbury,Glastonbury,town,,5783,99,5719,4511,1208,64,1930 Census report
+Granby,Granby,town,,1388,99,1379,1190,189,9,1930 Census report
+Hartland,Hartland,town,,296,100,296,256,40,0,1930 Census report
+Manchester,Manchester,town,,21973,100,21920,16054,5866,52,1930 Census report
+Marlborough,Marlborough,town,,319,100,319,250,69,0,1930 Census report
+New Britain,New Britain,town,,68128,99,67764,47018,20746,359,1930 Census report
+Newington,Newington,town,,4572,99,4529,3479,1050,43,1930 Census report
+Plainville,Plainville,town,,6301,97,6103,4963,1140,198,1930 Census report
+Rocky Hill,Rocky Hill,town,,2021,99,2010,1639,371,10,1930 Census report
+Simsbury,Simsbury,town,,3625,100,3609,2915,694,16,1930 Census report
+South Windsor,South Windsor,town,,2535,99,2522,1998,524,13,1930 Census report
+Southington,Southington,town,,9237,100,9218,7247,1971,19,1930 Census report
+Suffield,Suffield,town,,4346,96,4186,3402,784,158,1930 Census report
+Wethersfield,Wethersfield,town,,7512,98,7375,6151,1224,136,1930 Census report
+Windsor,Windsor,town,,8290,97,8071,6501,1570,218,1930 Census report
+Windsor Locks,Windsor Locks,town,,4073,99,4039,2978,1061,33,1930 Census report

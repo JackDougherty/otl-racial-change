@@ -1,0 +1,229 @@
+﻿gisjoin,town,area,num,pop,pctwnh,White non-Hispanic,Black or Af-Am non-Hispanic,Am Indian non-Hispanic,Asian or Pac Island non-Hispanic,Other race non-Hispanic,Hispanic,Source
+G09000303301,Hartland,tract 3301,,1833,99,1808,2,3,11,0,9,1990 Census - Social Explorer
+G09000304001,Berlin,tract 4001,,6759,96,6475,54,7,107,0,116,1990 Census - Social Explorer
+G09000304002,Berlin,tract 4002,,3652,97,3554,19,3,23,0,53,1990 Census - Social Explorer
+G09000304003,Berlin,tract 4003,,6376,98,6275,7,2,37,0,55,1990 Census - Social Explorer
+G09000304051,Bristol,tract 4051,,3147,96,3018,52,5,21,8,43,1990 Census - Social Explorer
+G09000304052,Bristol,tract 4052,,4757,97,4601,37,7,40,2,70,1990 Census - Social Explorer
+G09000304053,Bristol,tract 4053,,6565,95,6227,107,7,79,1,144,1990 Census - Social Explorer
+G09000304054,Bristol,tract 4054,,7473,94,7046,157,17,61,2,190,1990 Census - Social Explorer
+G09000304055,Bristol,tract 4055,,5333,92,4880,167,7,35,2,242,1990 Census - Social Explorer
+G09000304056,Bristol,tract 4056,,6757,96,6477,108,11,26,5,130,1990 Census - Social Explorer
+G09000304057,Bristol,tract 4057,,2286,96,2186,39,9,13,0,39,1990 Census - Social Explorer
+G09000304058,Bristol,tract 4058,,6913,96,6663,77,6,60,5,102,1990 Census - Social Explorer
+G09000304059,Bristol,tract 4059,,4259,97,4116,51,1,28,1,62,1990 Census - Social Explorer
+G0900030406001,Bristol,tract 4060.01,,4700,85,3975,239,4,28,5,449,1990 Census - Social Explorer
+G0900030406002,Bristol,tract 4060.02,,5141,97,4972,58,5,55,5,46,1990 Census - Social Explorer
+G09000304061,Bristol,tract 4061,,3426,93,3180,81,12,14,3,136,1990 Census - Social Explorer
+G09000304101,Burlington,tract 4101,,7026,98,6893,39,5,32,1,56,1990 Census - Social Explorer
+G09000304153,New Britain,tract 4153,,2130,85,1813,135,8,16,4,154,1990 Census - Social Explorer
+G09000304154,New Britain,tract 4154,,5744,80,4569,526,12,86,11,540,1990 Census - Social Explorer
+G09000304155,New Britain,tract 4155,,2582,79,2041,235,1,43,6,256,1990 Census - Social Explorer
+G09000304156,New Britain,tract 4156,,3771,79,2975,228,5,29,3,531,1990 Census - Social Explorer
+G09000304157,New Britain,tract 4157,,3918,84,3277,107,11,52,5,466,1990 Census - Social Explorer
+G09000304158,New Britain,tract 4158,,2090,90,1876,67,3,10,1,133,1990 Census - Social Explorer
+G09000304159,New Britain,tract 4159,,2655,53,1394,109,8,43,13,1088,1990 Census - Social Explorer
+G09000304160,New Britain,tract 4160,,4429,86,3824,117,1,14,26,447,1990 Census - Social Explorer
+G09000304161,New Britain,tract 4161,,4988,58,2904,308,2,49,11,1714,1990 Census - Social Explorer
+G09000304162,New Britain,tract 4162,,3501,39,1356,504,5,40,3,1593,1990 Census - Social Explorer
+G09000304163,New Britain,tract 4163,,3536,86,3043,204,7,19,7,256,1990 Census - Social Explorer
+G09000304164,New Britain,tract 4164,,3425,96,3273,59,3,18,0,72,1990 Census - Social Explorer
+G09000304165,New Britain,tract 4165,,6143,59,3611,693,10,234,11,1584,1990 Census - Social Explorer
+G09000304166,New Britain,tract 4166,,3063,64,1954,348,4,21,0,736,1990 Census - Social Explorer
+G09000304167,New Britain,tract 4167,,7281,67,4858,822,15,309,10,1267,1990 Census - Social Explorer
+G09000304168,New Britain,tract 4168,,2979,91,2698,107,2,34,0,138,1990 Census - Social Explorer
+G09000304171,New Britain,tract 4171,,2030,44,903,177,10,30,18,892,1990 Census - Social Explorer
+G09000304172,New Britain,tract 4172,,1551,86,1328,68,2,53,0,100,1990 Census - Social Explorer
+G09000304173,New Britain,tract 4173,,1940,90,1737,114,1,38,0,50,1990 Census - Social Explorer
+G09000304174,New Britain,tract 4174,,3022,83,2495,257,6,104,3,157,1990 Census - Social Explorer
+G09000304175,New Britain,tract 4175,,4713,95,4476,72,2,52,1,110,1990 Census - Social Explorer
+G09000304204,Plainville,tract 4204,,3429,97,3335,31,4,28,0,31,1990 Census - Social Explorer
+G09000304205,Plainville,tract 4205,,4809,92,4439,181,4,39,7,139,1990 Census - Social Explorer
+G09000304206,Plainville,tract 4206,,5689,94,5325,152,4,68,10,130,1990 Census - Social Explorer
+G09000304207,Plainville,tract 4207,,3335,96,3193,43,4,24,1,70,1990 Census - Social Explorer
+G09000304301,Southington,tract 4301,,3873,97,3750,30,4,21,4,64,1990 Census - Social Explorer
+G0900030430201,Southington,tract 4302.01,,3167,96,3050,35,1,35,0,46,1990 Census - Social Explorer
+G0900030430202,Southington,tract 4302.02,,4142,97,4012,27,1,49,5,48,1990 Census - Social Explorer
+G0900030430203,Southington,tract 4302.03,,3708,98,3617,18,1,23,0,49,1990 Census - Social Explorer
+G0900030430301,Southington,tract 4303.01,,2878,97,2793,21,4,29,0,31,1990 Census - Social Explorer
+G0900030430302,Southington,tract 4303.02,,2987,98,2929,23,0,17,0,18,1990 Census - Social Explorer
+G09000304304,Southington,tract 4304,,4162,97,4031,34,3,25,5,64,1990 Census - Social Explorer
+G09000304305,Southington,tract 4305,,5703,97,5535,58,11,17,3,79,1990 Census - Social Explorer
+G0900030430601,Southington,tract 4306.01,,4370,96,4216,63,4,12,1,74,1990 Census - Social Explorer
+G0900030430602,Southington,tract 4306.02,,3541,98,3457,21,2,24,2,35,1990 Census - Social Explorer
+G09000304601,Farmington,tract 4601,,2292,96,2191,17,1,50,1,32,1990 Census - Social Explorer
+G0900030460201,Farmington,tract 4602.01,,6630,95,6287,119,5,132,7,80,1990 Census - Social Explorer
+G0900030460202,Farmington,tract 4602.02,,3257,95,3083,34,7,84,1,48,1990 Census - Social Explorer
+G09000304603,Farmington,tract 4603,,8434,96,8091,99,7,152,5,80,1990 Census - Social Explorer
+G0900030462101,Avon,tract 4621.01,,5680,97,5502,46,8,88,5,31,1990 Census - Social Explorer
+G0900030462102,Avon,tract 4621.02,,1891,97,1831,13,0,34,0,13,1990 Census - Social Explorer
+G0900030462201,Avon,tract 4622.01,,4406,97,4267,40,3,45,1,50,1990 Census - Social Explorer
+G0900030462202,Avon,tract 4622.02,,1960,95,1863,29,1,42,1,24,1990 Census - Social Explorer
+G0900030464101,Canton,tract 4641.01,,4417,98,4315,23,0,28,0,51,1990 Census - Social Explorer
+G0900030464102,Canton,tract 4641.02,,3851,97,3750,24,3,32,4,38,1990 Census - Social Explorer
+G0900030466101,Simsbury,tract 4661.01,,3504,96,3361,20,2,66,2,53,1990 Census - Social Explorer
+G0900030466102,Simsbury,tract 4661.02,,4666,96,4484,39,1,90,0,52,1990 Census - Social Explorer
+G0900030466201,Simsbury,tract 4662.01,,2141,95,2041,19,0,59,0,22,1990 Census - Social Explorer
+G0900030466202,Simsbury,tract 4662.02,,4637,97,4504,24,1,61,0,47,1990 Census - Social Explorer
+G09000304663,Simsbury,tract 4663,,4703,96,4538,39,1,61,1,63,1990 Census - Social Explorer
+G09000304664,Simsbury,tract 4664,,2372,97,2291,30,3,31,0,17,1990 Census - Social Explorer
+G0900030468101,Granby,tract 4681.01,,5798,98,5663,23,8,38,1,65,1990 Census - Social Explorer
+G0900030468102,Granby,tract 4681.02,,3604,98,3525,21,8,26,0,24,1990 Census - Social Explorer
+G09000304701,East Granby,tract 4701,,4302,97,4168,63,4,16,0,51,1990 Census - Social Explorer
+G09000304711,Bloomfield,tract 4711,,4008,24,943,2824,6,39,9,187,1990 Census - Social Explorer
+G09000304712,Bloomfield,tract 4712,,3445,34,1160,2080,18,69,10,108,1990 Census - Social Explorer
+G09000304713,Bloomfield,tract 4713,,4502,66,2992,1291,3,82,9,125,1990 Census - Social Explorer
+G09000304714,Bloomfield,tract 4714,,5148,83,4286,723,5,45,10,79,1990 Census - Social Explorer
+G09000304715,Bloomfield,tract 4715,,2380,51,1205,1044,3,36,1,91,1990 Census - Social Explorer
+G09000304731,Windsor,tract 4731,,6259,66,4114,1767,11,122,6,239,1990 Census - Social Explorer
+G09000304734,Windsor,tract 4734,,1902,90,1708,127,3,43,0,21,1990 Census - Social Explorer
+G0900030473501,Windsor,tract 4735.01,,3771,87,3282,264,0,142,9,74,1990 Census - Social Explorer
+G0900030473502,Windsor,tract 4735.02,,2965,88,2620,184,2,68,0,91,1990 Census - Social Explorer
+G0900030473601,Windsor,tract 4736.01,,3514,86,3008,315,6,87,0,98,1990 Census - Social Explorer
+G0900030473602,Windsor,tract 4736.02,,2142,82,1753,255,4,64,2,64,1990 Census - Social Explorer
+G09000304737,Windsor,tract 4737,,5310,75,3961,1064,0,80,8,197,1990 Census - Social Explorer
+G09000304738,Windsor,tract 4738,,1954,52,1019,702,9,51,4,169,1990 Census - Social Explorer
+G09000304761,Windsor Locks,tract 4761,,3932,95,3722,56,8,77,1,68,1990 Census - Social Explorer
+G09000304762,Windsor Locks,tract 4762,,3022,97,2938,34,3,26,1,20,1990 Census - Social Explorer
+G09000304763,Windsor Locks,tract 4763,,5404,95,5126,88,5,110,0,75,1990 Census - Social Explorer
+G0900030477101,Suffield,tract 4771.01,,3388,98,3315,28,3,31,1,10,1990 Census - Social Explorer
+G0900030477102,Suffield,tract 4771.02,,5127,94,4826,124,3,100,2,72,1990 Census - Social Explorer
+G09000304772,Suffield,tract 4772,,2912,98,2866,21,2,6,1,16,1990 Census - Social Explorer
+G09000304801,Enfield,tract 4801,,1457,26,376,643,4,1,0,433,1990 Census - Social Explorer
+G09000304802,Enfield,tract 4802,,4240,97,4133,26,6,39,0,36,1990 Census - Social Explorer
+G09000304803,Enfield,tract 4803,,2515,96,2402,47,5,20,0,41,1990 Census - Social Explorer
+G09000304804,Enfield,tract 4804,,4415,96,4227,71,4,48,1,64,1990 Census - Social Explorer
+G09000304805,Enfield,tract 4805,,3190,97,3110,14,0,37,0,29,1990 Census - Social Explorer
+G09000304806,Enfield,tract 4806,,4605,91,4212,113,7,67,5,201,1990 Census - Social Explorer
+G09000304807,Enfield,tract 4807,,2236,99,2207,10,0,7,0,12,1990 Census - Social Explorer
+G09000304808,Enfield,tract 4808,,4555,98,4448,23,6,48,0,30,1990 Census - Social Explorer
+G09000304809,Enfield,tract 4809,,2587,94,2424,69,1,36,2,55,1990 Census - Social Explorer
+G09000304810,Enfield,tract 4810,,3639,97,3524,42,4,51,2,16,1990 Census - Social Explorer
+G09000304811,Enfield,tract 4811,,4386,97,4252,29,2,51,1,51,1990 Census - Social Explorer
+G09000304812,Enfield,tract 4812,,4450,97,4308,48,9,42,0,43,1990 Census - Social Explorer
+G09000304813,Enfield,tract 4813,,3257,98,3183,24,0,22,0,28,1990 Census - Social Explorer
+G09000304841,East Windsor,tract 4841,,5313,93,4951,203,23,58,3,75,1990 Census - Social Explorer
+G09000304842,East Windsor,tract 4842,,4768,93,4450,139,16,73,1,89,1990 Census - Social Explorer
+G09000304871,South Windsor,tract 4871,,6470,93,6031,135,16,169,1,118,1990 Census - Social Explorer
+G09000304872,South Windsor,tract 4872,,6761,95,6404,108,12,165,0,72,1990 Census - Social Explorer
+G09000304873,South Windsor,tract 4873,,1095,96,1052,12,0,18,0,13,1990 Census - Social Explorer
+G09000304874,South Windsor,tract 4874,,2155,92,1984,65,7,41,0,58,1990 Census - Social Explorer
+G09000304875,South Windsor,tract 4875,,5609,92,5170,182,5,141,2,109,1990 Census - Social Explorer
+G09000304901,Rocky Hill,tract 4901,,5211,94,4909,113,8,85,3,93,1990 Census - Social Explorer
+G09000304902,Rocky Hill,tract 4902,,653,92,602,45,4,0,0,2,1990 Census - Social Explorer
+G0900030490301,Rocky Hill,tract 4903.01,,5789,95,5502,114,2,61,4,106,1990 Census - Social Explorer
+G0900030490302,Rocky Hill,tract 4903.02,,4901,92,4511,140,5,118,2,125,1990 Census - Social Explorer
+G09000304921,Wethersfield,tract 4921,,3403,97,3317,27,3,10,0,46,1990 Census - Social Explorer
+G09000304922,Wethersfield,tract 4922,,4321,96,4142,53,10,36,4,76,1990 Census - Social Explorer
+G09000304923,Wethersfield,tract 4923,,5351,94,5025,106,10,58,4,148,1990 Census - Social Explorer
+G09000304924,Wethersfield,tract 4924,,2810,96,2708,30,2,17,0,53,1990 Census - Social Explorer
+G09000304925,Wethersfield,tract 4925,,3004,98,2942,7,0,31,0,24,1990 Census - Social Explorer
+G09000304926,Wethersfield,tract 4926,,6778,97,6601,49,5,45,3,75,1990 Census - Social Explorer
+G09000304941,Newington,tract 4941,,5074,93,4723,112,7,99,7,126,1990 Census - Social Explorer
+G0900030494201,Newington,tract 4942.01,,5129,95,4879,80,9,96,1,64,1990 Census - Social Explorer
+G0900030494202,Newington,tract 4942.02,,2368,93,2193,59,5,31,3,77,1990 Census - Social Explorer
+G09000304943,Newington,tract 4943,,3843,96,3693,49,4,40,0,57,1990 Census - Social Explorer
+G09000304944,Newington,tract 4944,,4774,97,4650,13,6,31,0,74,1990 Census - Social Explorer
+G09000304945,Newington,tract 4945,,4717,95,4478,61,3,67,4,104,1990 Census - Social Explorer
+G09000304946,Newington,tract 4946,,3287,94,3103,32,1,41,0,110,1990 Census - Social Explorer
+G09000304961,West Hartford,tract 4961,,2546,66,1688,325,5,127,11,390,1990 Census - Social Explorer
+G09000304962,West Hartford,tract 4962,,4589,90,4145,57,4,217,1,165,1990 Census - Social Explorer
+G09000304963,West Hartford,tract 4963,,3277,93,3056,44,4,80,2,91,1990 Census - Social Explorer
+G09000304964,West Hartford,tract 4964,,3027,96,2891,22,1,78,0,35,1990 Census - Social Explorer
+G09000304965,West Hartford,tract 4965,,2715,97,2622,27,3,28,0,35,1990 Census - Social Explorer
+G09000304966,West Hartford,tract 4966,,2360,96,2261,19,4,27,4,45,1990 Census - Social Explorer
+G09000304967,West Hartford,tract 4967,,3379,86,2921,103,1,151,5,198,1990 Census - Social Explorer
+G09000304968,West Hartford,tract 4968,,3150,86,2697,119,1,147,7,179,1990 Census - Social Explorer
+G09000304969,West Hartford,tract 4969,,6079,88,5346,161,7,256,8,301,1990 Census - Social Explorer
+G09000304970,West Hartford,tract 4970,,4350,95,4134,42,0,71,2,101,1990 Census - Social Explorer
+G09000304971,West Hartford,tract 4971,,4048,93,3773,71,6,79,1,118,1990 Census - Social Explorer
+G09000304972,West Hartford,tract 4972,,2335,95,2218,41,0,39,0,37,1990 Census - Social Explorer
+G09000304973,West Hartford,tract 4973,,4721,94,4426,102,2,120,14,57,1990 Census - Social Explorer
+G09000304974,West Hartford,tract 4974,,3810,96,3640,45,0,67,0,58,1990 Census - Social Explorer
+G09000304975,West Hartford,tract 4975,,3554,95,3392,37,2,86,1,36,1990 Census - Social Explorer
+G09000304976,West Hartford,tract 4976,,2340,96,2250,21,0,36,1,32,1990 Census - Social Explorer
+G09000304977,West Hartford,tract 4977,,3825,97,3711,26,0,71,4,13,1990 Census - Social Explorer
+G09000305001,Hartford,tract 5001,,3732,33,1226,436,6,49,11,2004,1990 Census - Social Explorer
+G09000305002,Hartford,tract 5002,,2835,28,807,374,6,80,11,1557,1990 Census - Social Explorer
+G09000305003,Hartford,tract 5003,,3332,19,618,531,9,70,4,2100,1990 Census - Social Explorer
+G09000305004,Hartford,tract 5004,,3028,11,327,662,10,28,11,1990,1990 Census - Social Explorer
+G09000305005,Hartford,tract 5005,,1473,42,624,411,7,5,5,421,1990 Census - Social Explorer
+G09000305006,Hartford,tract 5006,,281,45,126,95,2,2,1,55,1990 Census - Social Explorer
+G09000305007,Hartford,tract 5007,,930,15,143,321,3,1,0,462,1990 Census - Social Explorer
+G09000305008,Hartford,tract 5008,,656,0,1,314,1,0,6,334,1990 Census - Social Explorer
+G09000305009,Hartford,tract 5009,,2111,0,8,978,2,4,13,1106,1990 Census - Social Explorer
+G09000305010,Hartford,tract 5010,,3291,1,28,1902,12,2,10,1337,1990 Census - Social Explorer
+G09000305011,Hartford,tract 5011,,1209,4,52,1072,12,7,1,65,1990 Census - Social Explorer
+G09000305012,Hartford,tract 5012,,2958,0,13,2488,6,3,9,439,1990 Census - Social Explorer
+G09000305013,Hartford,tract 5013,,2487,1,32,1405,1,0,5,1044,1990 Census - Social Explorer
+G09000305014,Hartford,tract 5014,,3844,1,23,3145,7,1,29,639,1990 Census - Social Explorer
+G09000305015,Hartford,tract 5015,,4059,2,67,3780,9,7,10,186,1990 Census - Social Explorer
+G09000305016,Hartford,tract 5016,,224,5,11,19,0,0,0,194,1990 Census - Social Explorer
+G09000305017,Hartford,tract 5017,,1678,1,18,604,3,4,14,1035,1990 Census - Social Explorer
+G09000305018,Hartford,tract 5018,,3424,1,36,1779,7,1,17,1584,1990 Census - Social Explorer
+G09000305019,Hartford,tract 5019,,498,28,139,45,1,3,1,309,1990 Census - Social Explorer
+G09000305020,Hartford,tract 5020,,431,50,214,40,0,1,2,174,1990 Census - Social Explorer
+G09000305021,Hartford,tract 5021,,698,72,500,146,0,8,0,44,1990 Census - Social Explorer
+G09000305022,Hartford,tract 5022,,725,34,249,291,4,28,4,149,1990 Census - Social Explorer
+G09000305023,Hartford,tract 5023,,4675,89,4153,69,7,30,4,412,1990 Census - Social Explorer
+G09000305024,Hartford,tract 5024,,4770,72,3447,191,2,79,15,1036,1990 Census - Social Explorer
+G09000305025,Hartford,tract 5025,,1659,67,1106,169,3,19,6,356,1990 Census - Social Explorer
+G09000305026,Hartford,tract 5026,,2931,80,2350,86,0,22,3,470,1990 Census - Social Explorer
+G09000305027,Hartford,tract 5027,,5910,52,3063,658,7,93,36,2053,1990 Census - Social Explorer
+G09000305028,Hartford,tract 5028,,3883,12,451,333,17,52,35,2995,1990 Census - Social Explorer
+G09000305029,Hartford,tract 5029,,3683,19,714,315,2,102,18,2532,1990 Census - Social Explorer
+G09000305030,Hartford,tract 5030,,3092,24,741,388,0,18,14,1931,1990 Census - Social Explorer
+G09000305031,Hartford,tract 5031,,4824,37,1808,1813,16,125,32,1030,1990 Census - Social Explorer
+G09000305032,Hartford,tract 5032,,166,48,80,58,2,2,0,24,1990 Census - Social Explorer
+G09000305033,Hartford,tract 5033,,3183,12,396,1948,19,56,16,748,1990 Census - Social Explorer
+G09000305034,Hartford,tract 5034,,2899,10,293,1979,14,95,3,515,1990 Census - Social Explorer
+G09000305035,Hartford,tract 5035,,2343,1,22,1751,5,16,10,539,1990 Census - Social Explorer
+G09000305036,Hartford,tract 5036,,1302,50,645,535,3,28,3,88,1990 Census - Social Explorer
+G09000305037,Hartford,tract 5037,,3314,3,100,2896,8,20,21,269,1990 Census - Social Explorer
+G09000305038,Hartford,tract 5038,,4506,51,2300,1817,14,42,66,267,1990 Census - Social Explorer
+G09000305039,Hartford,tract 5039,,5795,4,230,5352,16,21,11,165,1990 Census - Social Explorer
+G09000305040,Hartford,tract 5040,,3778,6,217,3367,17,15,6,156,1990 Census - Social Explorer
+G09000305041,Hartford,tract 5041,,1698,46,785,201,0,47,4,661,1990 Census - Social Explorer
+G09000305042,Hartford,tract 5042,,4905,52,2543,1274,21,129,13,925,1990 Census - Social Explorer
+G09000305043,Hartford,tract 5043,,3364,42,1414,365,12,161,25,1387,1990 Census - Social Explorer
+G09000305044,Hartford,tract 5044,,3817,64,2439,536,13,146,14,669,1990 Census - Social Explorer
+G09000305045,Hartford,tract 5045,,3415,38,1285,712,3,21,21,1373,1990 Census - Social Explorer
+G09000305046,Hartford,tract 5046,,4060,4,171,1092,9,29,15,2744,1990 Census - Social Explorer
+G09000305047,Hartford,tract 5047,,2267,60,1369,248,6,49,13,582,1990 Census - Social Explorer
+G09000305048,Hartford,tract 5048,,4114,87,3580,98,3,23,8,402,1990 Census - Social Explorer
+G09000305049,Hartford,tract 5049,,5482,30,1650,1136,5,89,22,2580,1990 Census - Social Explorer
+G09000305101,East Hartford,tract 5101,,2130,91,1946,96,0,26,2,60,1990 Census - Social Explorer
+G09000305102,East Hartford,tract 5102,,2358,83,1960,191,0,55,0,152,1990 Census - Social Explorer
+G09000305103,East Hartford,tract 5103,,4161,71,2938,702,15,86,17,403,1990 Census - Social Explorer
+G09000305104,East Hartford,tract 5104,,4846,74,3608,581,7,155,6,489,1990 Census - Social Explorer
+G09000305105,East Hartford,tract 5105,,3312,72,2396,567,6,78,8,257,1990 Census - Social Explorer
+G09000305106,East Hartford,tract 5106,,4852,75,3616,663,20,99,11,443,1990 Census - Social Explorer
+G09000305107,East Hartford,tract 5107,,5130,87,4463,316,5,123,4,219,1990 Census - Social Explorer
+G09000305108,East Hartford,tract 5108,,3377,84,2831,288,10,62,7,179,1990 Census - Social Explorer
+G09000305109,East Hartford,tract 5109,,4041,94,3785,59,5,58,1,133,1990 Census - Social Explorer
+G09000305110,East Hartford,tract 5110,,3711,95,3528,54,8,30,1,90,1990 Census - Social Explorer
+G09000305111,East Hartford,tract 5111,,3560,95,3371,44,2,32,1,110,1990 Census - Social Explorer
+G09000305112,East Hartford,tract 5112,,3199,82,2622,216,5,103,1,252,1990 Census - Social Explorer
+G09000305113,East Hartford,tract 5113,,3268,81,2661,271,4,140,28,164,1990 Census - Social Explorer
+G09000305114,East Hartford,tract 5114,,2507,94,2359,30,5,57,1,55,1990 Census - Social Explorer
+G09000305141,Manchester,tract 5141,,6088,92,5590,253,10,99,7,129,1990 Census - Social Explorer
+G09000305142,Manchester,tract 5142,,2806,89,2500,144,10,67,3,82,1990 Census - Social Explorer
+G09000305143,Manchester,tract 5143,,4499,96,4303,62,6,76,0,52,1990 Census - Social Explorer
+G09000305144,Manchester,tract 5144,,4812,93,4478,157,2,61,6,108,1990 Census - Social Explorer
+G09000305145,Manchester,tract 5145,,4541,92,4166,131,3,120,6,115,1990 Census - Social Explorer
+G09000305146,Manchester,tract 5146,,5145,91,4675,209,12,77,10,162,1990 Census - Social Explorer
+G09000305147,Manchester,tract 5147,,4129,88,3635,257,24,58,5,150,1990 Census - Social Explorer
+G09000305148,Manchester,tract 5148,,3383,93,3146,127,3,27,1,79,1990 Census - Social Explorer
+G09000305149,Manchester,tract 5149,,3132,97,3036,34,6,7,0,49,1990 Census - Social Explorer
+G09000305150,Manchester,tract 5150,,2811,97,2729,33,1,27,0,21,1990 Census - Social Explorer
+G0900030515101,Manchester,tract 5151.01,,2505,96,2406,58,0,12,1,28,1990 Census - Social Explorer
+G0900030515102,Manchester,tract 5151.02,,4767,82,3931,430,7,165,4,230,1990 Census - Social Explorer
+G09000305152,Manchester,tract 5152,,3000,97,2905,33,4,30,4,24,1990 Census - Social Explorer
+G09000305201,Glastonbury,tract 5201,,5315,94,4976,50,7,201,1,80,1990 Census - Social Explorer
+G0900030520201,Glastonbury,tract 5202.01,,2477,96,2380,6,1,64,4,22,1990 Census - Social Explorer
+G0900030520202,Glastonbury,tract 5202.02,,2205,96,2127,11,1,45,0,21,1990 Census - Social Explorer
+G09000305203,Glastonbury,tract 5203,,7428,91,6765,126,12,195,5,325,1990 Census - Social Explorer
+G09000305204,Glastonbury,tract 5204,,6576,97,6374,27,2,94,7,72,1990 Census - Social Explorer
+G0900030520501,Glastonbury,tract 5205.01,,3016,97,2917,21,2,44,1,31,1990 Census - Social Explorer
+G0900030520502,Glastonbury,tract 5205.02,,884,97,855,4,0,14,0,11,1990 Census - Social Explorer
+G09000305241,Marlborough,tract 5241,,5535,97,5383,52,4,27,1,68,1990 Census - Social Explorer

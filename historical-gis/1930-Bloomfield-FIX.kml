@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>1930-Bloomfield.kml</name>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>00c8d0d4</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>b2e5ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin38">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>00c8d0d4</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>b2e5ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>00c8d0d4</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>b2bcf7ff</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer1">
+		<name>Bloomfield Districts</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_10000">
+			<name>Bloomfield  District 91 - 1930</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>White: 99%</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Non-White: 1%</td>
+
+</tr>
+
+<tr>
+
+<td>Total Population: 973</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#sn_ylw-pushpin38</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-72.739043,41.892628,0 -72.74234300000001,41.89496,0 -72.74593299999999,41.896099,0 -72.748874,41.896895,0 -72.751334,41.898392,0 -72.755145,41.900306,0 -72.758441,41.902074,0 -72.760431,41.904731,0 -72.763644,41.902921,0 -72.765421,41.899529,0 -72.766955,41.896531,0 -72.76885,41.892964,0 -72.769656,41.890055,0 -72.770658,41.886527,0 -72.770883,41.883814,0 -72.770495,41.880974,0 -72.772324,41.878034,0 -72.774479,41.874947,0 -72.775868,41.872584,0 -72.777978,41.868645,0 -72.77935100000001,41.865406,0 -72.780897,41.862406,0 -72.78297600000001,41.858555,0 -72.78435399999999,41.856092,0 -72.78482200000001,41.853165,0 -72.785122,41.849351,0 -72.785889,41.84565,0 -72.78555,41.841895,0 -72.784779,41.838348,0 -72.783528,41.836101,0 -72.78406,41.832682,0 -72.783383,41.827983,0 -72.787043,41.826231,0 -72.789693,41.825937,0 -72.792439,41.825632,0 -72.79585299999999,41.825253,0 -72.798368,41.823845,0 -72.797944,41.820653,0 -72.797803,41.816574,0 -72.798405,41.812584,0 -72.798016,41.808826,0 -72.797342,41.804104,0 -72.79490199999999,41.804703,0 -72.791231,41.804802,0 -72.787448,41.804895,0 -72.783545,41.804978,0 -72.779141,41.805081,0 -72.77616,41.805148,0 -72.77337300000001,41.805206,0 -72.77023800000001,41.805274,0 -72.767172,41.805378,0 -72.763807,41.805447,0 -72.760597,41.805537,0 -72.756314,41.805619,0 -72.752893,41.805673,0 -72.750085,41.805348,0 -72.744895,41.805862,0 -72.740668,41.805991,0 -72.73810400000001,41.806066,0 -72.735101,41.806155,0 -72.731486,41.806264,0 -72.727746,41.806375,0 -72.724638,41.806461,0 -72.72117299999999,41.806534,0 -72.718329,41.806531,0 -72.715599,41.807642,0 -72.71793099999999,41.810912,0 -72.719921,41.813563,0 -72.72185399999999,41.816119,0 -72.724323,41.819527,0 -72.726804,41.82286,0 -72.729376,41.826302,0 -72.731131,41.828791,0 -72.732715,41.830884,0 -72.73449599999999,41.833381,0 -72.73626,41.836427,0 -72.73828899999999,41.840001,0 -72.740111,41.843541,0 -72.740391,41.848743,0 -72.739722,41.852599,0 -72.739683,41.85621,0 -72.739634,41.860413,0 -72.739628,41.864061,0 -72.739582,41.867532,0 -72.739591,41.871327,0 -72.739397,41.875458,0 -72.74255599999999,41.877436,0 -72.74180800000001,41.88093,0 -72.74075999999999,41.883966,0 -72.739473,41.887326,0 -72.739043,41.892628,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10001">
+			<name>Bloomfield  District 93 - 1930</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>White: 95%</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Non-White: 5%</td>
+
+</tr>
+
+<tr>
+
+<td>Total Population: 2,368</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-72.684119,41.803255,0 -72.686161,41.807185,0 -72.686378,41.811401,0 -72.686628,41.815706,0 -72.686865,41.819745,0 -72.687101,41.823843,0 -72.687372,41.828788,0 -72.687556,41.832134,0 -72.687776,41.836127,0 -72.688005,41.840298,0 -72.688152,41.842969,0 -72.688309,41.845837,0 -72.688507,41.849401,0 -72.688698,41.852825,0 -72.688866,41.855823,0 -72.689047,41.859058,0 -72.689224,41.862228,0 -72.69032900000001,41.865402,0 -72.693524,41.866624,0 -72.697124,41.867403,0 -72.70037000000001,41.868106,0 -72.703028,41.868681,0 -72.705591,41.869235,0 -72.70813200000001,41.869785,0 -72.711398,41.870495,0 -72.715999,41.871493,0 -72.719812,41.872321,0 -72.723538,41.87313,0 -72.728594,41.874224,0 -72.73179,41.874921,0 -72.734686,41.875544,0 -72.739397,41.875458,0 -72.739591,41.871327,0 -72.739582,41.867532,0 -72.739628,41.864061,0 -72.739634,41.860413,0 -72.739683,41.85621,0 -72.739722,41.852599,0 -72.740391,41.848743,0 -72.740111,41.843541,0 -72.73828899999999,41.840001,0 -72.73626,41.836427,0 -72.73449599999999,41.833381,0 -72.732715,41.830884,0 -72.731131,41.828791,0 -72.729376,41.826302,0 -72.726804,41.82286,0 -72.724323,41.819527,0 -72.72185399999999,41.816119,0 -72.719921,41.813563,0 -72.71793099999999,41.810912,0 -72.715599,41.807642,0 -72.711659,41.806821,0 -72.708483,41.806915,0 -72.70438,41.807038,0 -72.699682,41.807178,0 -72.694282,41.807336,0 -72.69112199999999,41.806662,0 -72.690685,41.803379,0 -72.689567,41.801005,0 -72.685913,41.800617,0 -72.684119,41.803255,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10002">
+			<name>Bloomfield  District 92 - 1930</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bloomfield  District 92 - 1930</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>White: 100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Non-White: 0</td>
+
+</tr>
+
+<tr>
+
+<td>Total Population: 27</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-72.75594599999999,41.831,0 -72.755567,41.831398,0 -72.75565899999999,41.831417,0 -72.755765,41.831442,0 -72.755831,41.831476,0 -72.755877,41.831526,0 -72.755956,41.831575,0 -72.756029,41.831629,0 -72.756095,41.831688,0 -72.756141,41.831767,0 -72.756174,41.831831,0 -72.756193,41.83191,0 -72.756226,41.832014,0 -72.75624000000001,41.832083,0 -72.75624000000001,41.832137,0 -72.756833,41.832167,0 -72.756826,41.832078,0 -72.75680699999999,41.83194,0 -72.756787,41.831836,0 -72.756787,41.831772,0 -72.756787,41.831723,0 -72.7568,41.831649,0 -72.75682,41.831614,0 -72.756818,41.831471,0 -72.756703,41.831408,0 -72.75660000000001,41.831348,0 -72.75650899999999,41.831304,0 -72.7564,41.831261,0 -72.75631799999999,41.831214,0 -72.75618299999999,41.831137,0 -72.75609,41.831083,0 -72.756016,41.831041,0 -72.75594599999999,41.831,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

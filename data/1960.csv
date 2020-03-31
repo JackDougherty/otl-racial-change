@@ -1,0 +1,157 @@
+﻿gisjoin,town,area,num,pop,pctwnh,White,Negro,Other Races,Puerto Rican or Spanish Surname,Source
+Bristol,Bristol,town,,45499,99,45045,378,76,,1960 Census report
+Burlington,Burlington,town,,2790,100,2784,3,3,,1960 Census report
+East Granby,East Granby,town,,2434,99,2402,32,0,,1960 Census report
+Granby,Granby,town,,4968,100,4952,9,7,,1960 Census report
+Hartland,Hartland,town,,1040,100,1035,4,1,,1960 Census report
+Marlborough,Marlborough,town,,1961,100,1952,9,0,,1960 Census report
+G09000300001,New Britain,tract,1,2476,88,2345,121,10,167,1960 Census - Social Explorer
+G09000300002,New Britain,tract,2,7199,97,7016,176,7,19,1960 Census - Social Explorer
+G09000300003,New Britain,tract,3,5101,100,5098,0,3,16,1960 Census - Social Explorer
+G09000300004,New Britain,tract,4,3480,100,3477,2,1,0,1960 Census - Social Explorer
+G09000300005,New Britain,tract,5,1974,100,1973,1,0,0,1960 Census - Social Explorer
+G09000300006,New Britain,tract,6,3804,98,3751,53,0,25,1960 Census - Social Explorer
+G09000300007,New Britain,tract,7,4799,83,4055,738,6,62,1960 Census - Social Explorer
+G09000300008,New Britain,tract,8,5745,96,5627,118,0,100,1960 Census - Social Explorer
+G09000300009,New Britain,tract,9,4907,99,4901,6,0,33,1960 Census - Social Explorer
+G09000300010,New Britain,tract,10,3795,95,3723,72,0,103,1960 Census - Social Explorer
+G09000300011,New Britain,tract,11,3389,90,3074,315,0,12,1960 Census - Social Explorer
+G09000300012,New Britain,tract,12,5894,94,5559,321,14,0,1960 Census - Social Explorer
+G09000300013,New Britain,tract,13,3650,99,3630,16,4,4,1960 Census - Social Explorer
+G09000300014,New Britain,tract,14,3800,100,3795,5,0,0,1960 Census - Social Explorer
+G09000300015,New Britain,tract,15,4655,100,4652,0,3,0,1960 Census - Social Explorer
+G09000300016,New Britain,tract,16,3472,99,3472,0,0,19,1960 Census - Social Explorer
+G09000300017,New Britain,tract,17,3064,99,3026,33,5,0,1960 Census - Social Explorer
+G09000300018,New Britain,tract,18,2606,89,2334,272,0,21,1960 Census - Social Explorer
+G09000300019,New Britain,tract,19,2969,99,2961,8,0,19,1960 Census - Social Explorer
+G09000300020,New Britain,tract,20,5422,97,5286,132,4,5,1960 Census - Social Explorer
+G0900030AV0168,Avon,tract,168,5273,100,5255,15,3,0,1960 Census - Social Explorer
+G0900030BE0001,Berlin,tract,1,11250,100,11205,43,2,0,1960 Census - Social Explorer
+G0900030BL0115,Bloomfield,tract,115,3863,92,3538,313,12,0,1960 Census - Social Explorer
+G0900030BL0116,Bloomfield,tract,116,2863,85,2431,432,0,0,1960 Census - Social Explorer
+G0900030BL0117,Bloomfield,tract,117,3332,100,3325,7,0,4,1960 Census - Social Explorer
+G0900030BL0118,Bloomfield,tract,118,3555,98,3485,60,10,8,1960 Census - Social Explorer
+G0900030CA0189,Canton,tract,189,4783,100,4775,3,5,0,1960 Census - Social Explorer
+G0900030EH0126,East Hartford,tract,126,4395,98,4299,87,9,5,1960 Census - Social Explorer
+G0900030EH0127,East Hartford,tract,127,3517,99,3483,26,8,0,1960 Census - Social Explorer
+G0900030EH0128,East Hartford,tract,128,4170,99,4138,27,5,0,1960 Census - Social Explorer
+G0900030EH0129,East Hartford,tract,129,6409,99,6345,32,32,0,1960 Census - Social Explorer
+G0900030EH0130,East Hartford,tract,130,4744,98,4677,67,0,29,1960 Census - Social Explorer
+G0900030EH0131,East Hartford,tract,131,3238,100,3229,3,6,0,1960 Census - Social Explorer
+G0900030EH0132,East Hartford,tract,132,3199,100,3198,0,1,4,1960 Census - Social Explorer
+G0900030EH0133,East Hartford,tract,133,3505,100,3493,4,8,0,1960 Census - Social Explorer
+G0900030EH0134,East Hartford,tract,134,3379,100,3379,0,0,0,1960 Census - Social Explorer
+G0900030EH0135,East Hartford,tract,135,4280,99,4250,20,10,0,1960 Census - Social Explorer
+G0900030EH0136,East Hartford,tract,136,3141,100,3141,0,0,0,1960 Census - Social Explorer
+G0900030EN0187,Enfield,tract,187,31464,99,31239,198,27,53,1960 Census - Social Explorer
+G0900030EW0175,East Windsor,tract,175,4856,97,4695,157,4,4,1960 Census - Social Explorer
+G0900030EW0176,East Windsor,tract,176,2644,98,2618,21,5,16,1960 Census - Social Explorer
+G0900030FA0165,Farmington,tract,165,2192,100,2185,1,6,0,1960 Census - Social Explorer
+G0900030FA0166,Farmington,tract,166,4265,99,4237,20,8,0,1960 Census - Social Explorer
+G0900030FA0167,Farmington,tract,167,4356,100,4348,1,7,0,1960 Census - Social Explorer
+G0900030GL0147,Glastonbury,tract,147,2832,99,2825,6,1,9,1960 Census - Social Explorer
+G0900030GL0148,Glastonbury,tract,148,5229,100,5210,11,8,0,1960 Census - Social Explorer
+G0900030GL0149,Glastonbury,tract,149,4018,99,3997,17,4,0,1960 Census - Social Explorer
+G0900030GL0150,Glastonbury,tract,150,2418,100,2412,6,0,0,1960 Census - Social Explorer
+G0900030HA0001,Hartford,tract,1,3500,98,3465,34,1,22,1960 Census - Social Explorer
+G0900030HA0002,Hartford,tract,2,2960,99,2943,11,6,4,1960 Census - Social Explorer
+G0900030HA0003,Hartford,tract,3,5637,95,5579,44,14,233,1960 Census - Social Explorer
+G0900030HA0004,Hartford,tract,4,2783,87,2440,336,7,24,1960 Census - Social Explorer
+G0900030HA0005,Hartford,tract,5,2607,96,2566,29,12,69,1960 Census - Social Explorer
+G0900030HA0006,Hartford,tract,6,338,74,327,11,0,76,1960 Census - Social Explorer
+G0900030HA0007,Hartford,tract,7,2022,42,994,1027,1,148,1960 Census - Social Explorer
+G0900030HA0008,Hartford,tract,8,1879,9,369,1506,4,197,1960 Census - Social Explorer
+G0900030HA0009,Hartford,tract,9,4510,2,85,4412,13,3,1960 Census - Social Explorer
+G0900030HA0010A,Hartford,tract,10,4474,39,1874,2599,1,149,1960 Census - Social Explorer
+G0900030HA0010B,Hartford,tract,10,1503,39,585,917,1,0,1960 Census - Social Explorer
+G0900030HA0011A,Hartford,tract,11,2491,42,1050,1440,1,0,1960 Census - Social Explorer
+G0900030HA0011B,Hartford,tract,11,3701,32,1278,2410,13,97,1960 Census - Social Explorer
+G0900030HA0012,Hartford,tract,12,3270,95,3119,151,0,0,1960 Census - Social Explorer
+G0900030HA0013,Hartford,tract,13,4607,60,2856,1741,10,97,1960 Census - Social Explorer
+G0900030HA0014,Hartford,tract,14,1362,74,1137,218,7,128,1960 Census - Social Explorer
+G0900030HA0015,Hartford,tract,15,3374,54,2047,1308,19,227,1960 Census - Social Explorer
+G0900030HA0016,Hartford,tract,16,5503,39,2411,3063,29,280,1960 Census - Social Explorer
+G0900030HA0017,Hartford,tract,17,1224,98,1202,22,0,0,1960 Census - Social Explorer
+G0900030HA0018,Hartford,tract,18,1157,95,1142,12,3,48,1960 Census - Social Explorer
+G0900030HA0019A,Hartford,tract,019A,896,92,834,55,7,9,1960 Census - Social Explorer
+G0900030HA0019B,Hartford,tract,019B,1832,90,1703,118,11,57,1960 Census - Social Explorer
+G0900030HA0020,Hartford,tract,20,4813,100,4791,21,1,0,1960 Census - Social Explorer
+G0900030HA0021,Hartford,tract,21,6009,98,5888,112,9,0,1960 Census - Social Explorer
+G0900030HA0022,Hartford,tract,22,2211,99,2198,7,6,8,1960 Census - Social Explorer
+G0900030HA0023,Hartford,tract,23,4964,100,4961,2,1,0,1960 Census - Social Explorer
+G0900030HA0024,Hartford,tract,24,5186,100,5177,5,4,4,1960 Census - Social Explorer
+G0900030HA0025,Hartford,tract,25,4160,99,4153,7,0,32,1960 Census - Social Explorer
+G0900030HA0026,Hartford,tract,26,3301,100,3298,0,3,0,1960 Census - Social Explorer
+G0900030HA0027,Hartford,tract,27,3354,100,3347,0,7,8,1960 Census - Social Explorer
+G0900030HA0028,Hartford,tract,28,5115,100,5090,11,14,0,1960 Census - Social Explorer
+G0900030HA0029,Hartford,tract,29,1192,95,1180,9,3,50,1960 Census - Social Explorer
+G0900030HA0030,Hartford,tract,30,1907,99,1894,8,5,0,1960 Census - Social Explorer
+G0900030HA0031,Hartford,tract,31,3137,99,3110,18,9,0,1960 Census - Social Explorer
+G0900030HA0032,Hartford,tract,32,2189,98,2151,38,0,0,1960 Census - Social Explorer
+G0900030HA0033,Hartford,tract,33,1131,99,1118,7,6,0,1960 Census - Social Explorer
+G0900030HA0034,Hartford,tract,34,3543,90,3195,344,4,0,1960 Census - Social Explorer
+G0900030HA0035A,Hartford,tract,035A,3216,75,2415,800,1,0,1960 Census - Social Explorer
+G0900030HA0035B,Hartford,tract,035B,6001,99,5917,80,4,0,1960 Census - Social Explorer
+G0900030HA0035C,Hartford,tract,035C,3928,99,3903,19,6,8,1960 Census - Social Explorer
+G0900030HA0036,Hartford,tract,36,1963,97,1955,8,0,53,1960 Census - Social Explorer
+G0900030HA0037,Hartford,tract,37,4882,99,4829,32,21,8,1960 Census - Social Explorer
+G0900030HA0038,Hartford,tract,38,3196,99,3175,13,8,4,1960 Census - Social Explorer
+G0900030HA0039,Hartford,tract,39,4256,99,4241,9,6,16,1960 Census - Social Explorer
+G0900030HA0040A,Hartford,tract,040A,4710,100,4708,1,1,0,1960 Census - Social Explorer
+G0900030HA0040B,Hartford,tract,040B,3716,58,2389,1322,5,235,1960 Census - Social Explorer
+G0900030HA0040C,Hartford,tract,040C,2474,100,2474,0,0,0,1960 Census - Social Explorer
+G0900030HA0040D,Hartford,tract,040D,3849,100,3849,0,0,0,1960 Census - Social Explorer
+G0900030HA0041,Hartford,tract,41,6119,91,5589,518,12,13,1960 Census - Social Explorer
+G0900030MA0137,Manchester,tract,137,1703,100,1695,8,0,0,1960 Census - Social Explorer
+G0900030MA0138,Manchester,tract,138,2569,99,2554,15,0,0,1960 Census - Social Explorer
+G0900030MA0139,Manchester,tract,139,5043,100,5041,2,0,0,1960 Census - Social Explorer
+G0900030MA0140,Manchester,tract,140,4881,100,4878,1,2,0,1960 Census - Social Explorer
+G0900030MA0141,Manchester,tract,141,5296,100,5289,7,0,0,1960 Census - Social Explorer
+G0900030MA0142,Manchester,tract,142,4767,100,4756,6,5,0,1960 Census - Social Explorer
+G0900030MA0143,Manchester,tract,143,3990,100,3982,6,2,4,1960 Census - Social Explorer
+G0900030MA0144,Manchester,tract,144,3535,100,3534,0,1,0,1960 Census - Social Explorer
+G0900030MA0145,Manchester,tract,145,6385,100,6367,12,6,0,1960 Census - Social Explorer
+G0900030MA0146,Manchester,tract,146,3933,98,3854,75,4,17,1960 Census - Social Explorer
+G0900030NE0160,Newington,tract,160,3284,99,3261,7,16,0,1960 Census - Social Explorer
+G0900030NE0161,Newington,tract,161,3355,100,3346,8,1,0,1960 Census - Social Explorer
+G0900030NE0162,Newington,tract,162,5018,100,5005,9,4,4,1960 Census - Social Explorer
+G0900030NE0163,Newington,tract,163,4075,98,4013,59,3,0,1960 Census - Social Explorer
+G0900030NE0164,Newington,tract,164,1932,99,1917,13,2,0,1960 Census - Social Explorer
+G0900030PV0001,Plainville,tract,1,13149,97,12829,298,22,33,1960 Census - Social Explorer
+G0900030RH0151,Rocky Hill,tract,151,3040,99,3033,7,0,9,1960 Census - Social Explorer
+G0900030RH0152,Rocky Hill,tract,152,1124,93,1048,74,2,3,1960 Census - Social Explorer
+G0900030RH0153,Rocky Hill,tract,153,3240,99,3217,22,1,0,1960 Census - Social Explorer
+G0900030SI0169,Simsbury,tract,169,3820,99,3789,30,1,3,1960 Census - Social Explorer
+G0900030SI0170,Simsbury,tract,170,1888,93,1832,54,2,70,1960 Census - Social Explorer
+G0900030SI0171,Simsbury,tract,171,2450,100,2447,1,2,0,1960 Census - Social Explorer
+G0900030SI0172,Simsbury,tract,172,1980,100,1977,3,0,0,1960 Census - Social Explorer
+G0900030SO0001,Southington,tract,1,22797,100,22758,27,12,20,1960 Census - Social Explorer
+G0900030SU0188,Suffield,tract,188,6779,97,6565,212,2,16,1960 Census - Social Explorer
+G0900030SW0124,South Windsor,tract,124,5698,100,5681,9,8,0,1960 Census - Social Explorer
+G0900030SW0125,South Windsor,tract,125,3762,98,3705,48,9,0,1960 Census - Social Explorer
+G0900030WE0154,Wethersfield,tract,154,4047,93,3803,240,4,35,1960 Census - Social Explorer
+G0900030WE0155,Wethersfield,tract,155,4748,100,4748,0,0,0,1960 Census - Social Explorer
+G0900030WE0156,Wethersfield,tract,156,4535,100,4517,16,2,0,1960 Census - Social Explorer
+G0900030WE0157,Wethersfield,tract,157,2617,100,2609,8,0,0,1960 Census - Social Explorer
+G0900030WE0158,Wethersfield,tract,158,2068,100,2067,1,0,0,1960 Census - Social Explorer
+G0900030WE0159,Wethersfield,tract,159,2546,100,2546,0,0,0,1960 Census - Social Explorer
+G0900030WH0101,West Hartford,tract,101,2637,98,2626,0,11,44,1960 Census - Social Explorer
+G0900030WH0102,West Hartford,tract,102,4848,100,4844,4,0,0,1960 Census - Social Explorer
+G0900030WH0103,West Hartford,tract,103,4320,100,4318,2,0,0,1960 Census - Social Explorer
+G0900030WH0104,West Hartford,tract,104,5785,100,5771,13,1,0,1960 Census - Social Explorer
+G0900030WH0105,West Hartford,tract,105,2798,100,2792,6,0,0,1960 Census - Social Explorer
+G0900030WH0106,West Hartford,tract,106,3909,100,3908,0,1,0,1960 Census - Social Explorer
+G0900030WH0107,West Hartford,tract,107,3899,100,3894,0,5,0,1960 Census - Social Explorer
+G0900030WH0108,West Hartford,tract,108,6957,100,6948,6,3,0,1960 Census - Social Explorer
+G0900030WH0109,West Hartford,tract,109,4625,99,4601,23,1,0,1960 Census - Social Explorer
+G0900030WH0110,West Hartford,tract,110,4193,100,4177,9,7,0,1960 Census - Social Explorer
+G0900030WH0111,West Hartford,tract,111,6243,98,6151,84,8,4,1960 Census - Social Explorer
+G0900030WH0112,West Hartford,tract,112,6839,99,6788,44,7,0,1960 Census - Social Explorer
+G0900030WH0113,West Hartford,tract,113,2743,99,2730,12,1,15,1960 Census - Social Explorer
+G0900030WH0114,West Hartford,tract,114,2586,99,2559,26,1,0,1960 Census - Social Explorer
+G0900030WI0119,Windsor,tract,119,2993,99,2974,14,5,0,1960 Census - Social Explorer
+G0900030WI0120,Windsor,tract,120,4962,98,4855,95,12,10,1960 Census - Social Explorer
+G0900030WI0121,Windsor,tract,121,3085,100,3080,5,0,0,1960 Census - Social Explorer
+G0900030WI0122,Windsor,tract,122,2518,98,2468,50,0,0,1960 Census - Social Explorer
+G0900030WI0123,Windsor,tract,123,5909,83,5223,683,3,303,1960 Census - Social Explorer
+G0900030WL0174,Windsor Locks,tract,174,11411,99,11304,105,2,11,1960 Census - Social Explorer

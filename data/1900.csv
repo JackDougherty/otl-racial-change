@@ -1,0 +1,39 @@
+﻿gisjoin,town,area,num,pop,pctwnh,White,Negro,Chinese,Japanese,Indian,Source
+Hartford1,Hartford,ward,1,8364,98,8183,165,16,,,1900 Census report
+Hartford2,Hartford,ward,2,9771,98,9547,209,15,,,1900 Census report
+Hartford3,Hartford,ward,3,8519,93,7911,600,8,,,1900 Census report
+Hartford4,Hartford,ward,4,7302,97,7059,233,9,,1,1900 Census report
+Hartford5,Hartford,ward,5,5558,95,5292,242,24,,,1900 Census report
+Hartford6,Hartford,ward,6,6433,99,6380,97,6,,,1900 Census report
+Hartford7,Hartford,ward,7,9200,100,9189,46,15,,,1900 Census report
+Hartford8,Hartford,ward,8,8539,99,8420,106,10,,3,1900 Census report
+Hartford9,Hartford,ward,9,7677,99,7593,71,13,,,1900 Census report
+Hartford10,Hartford,ward,10,8487,99,8363,118,6,,,1900 Census report
+Avon,Avon,town,,1302,100,,,,,,1900 Census report with race estimate
+Berlin,Berlin,town,,3448,99,3420,28,,,,1900 Census report
+Bloomfield,Bloomfield,town,,1513,97,,,,,,1900 Census report with race estimate
+Bristol,Bristol,town,,9643,100,,,,,,1900 Census report with race estimate
+Burlington,Burlington,town,,1218,100,,,,,,1900 Census report with race estimate
+Canton,Canton,town,,2678,99,2645,32,1,,,1900 Census report
+East Granby,East Granby,town,,684,99,,,,,,1900 Census report with race estimate
+East Hartford,East Hartford,town,,6406,99,6325,78,3,,,1900 Census report
+East Windsor,East Windsor,town,,3158,99,3129,28,1,,,1900 Census report
+Enfield,Enfield,town,,6699,99,6664,30,5,,,1900 Census report
+Farmington,Farmington,town,,3331,99,3288,42,1,,,1900 Census report
+Glastonbury,Glastonbury,town,,4260,99,4205,54,1,,,1900 Census report
+Granby,Granby,town,,1299,99,,,,,,1900 Census report with race estimate
+Hartland,Hartland,town,,592,100,,,,,,1900 Census report with race estimate
+Manchester,Manchester,town,,10601,100,10552,43,6,,,1900 Census report
+Marlborough,Marlborough,town,,322,100,,,,,,1900 Census report with race estimate
+New Britain,New Britain,town,,28202,99,,,,,,1900 Census report with race estimate
+Newington,Newington,town,,1041,98,,,,,,1900 Census report with race estimate
+Plainville,Plainville,town,,2189,95,,,,,,1900 Census report with race estimate
+Rocky Hill,Rocky Hill,town,,1026,100,,,,,,1900 Census report with race estimate
+Simsbury,Simsbury,town,,2094,99,,,,,,1900 Census report with race estimate
+South Windsor,South Windsor,town,,5890,100,,,,,,1900 Census report with race estimate
+Southington,Southington,town,,2014,99,,,,,,1900 Census report with race estimate
+Suffield,Suffield,town,,3521,96,3396,123,2,,,1900 Census report
+West Hartford,West Hartford,town,,3186,97,3094,92,,,,1900 Census report
+Wethersfield,Wethersfield,town,,2637,97,2545,89,2,,,1900 Census report
+Windsor,Windsor,town,,3614,95,3446,168,,,,1900 Census report
+Windsor Locks,Windsor Locks,town,,3062,99,3023,37,2,,,1900 Census report

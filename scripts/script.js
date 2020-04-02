@@ -29,7 +29,7 @@ $(document).ready(function() {
     <a href="http://cartodb.com/attributions">CartoDB</a>'
   }).addTo(map);
 
-  // CartoDB Labels only, put in marker pane so they're above choropleth 
+  // CartoDB Labels only, put in marker pane so they're above choropleth
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
     pane: 'markerPane',
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright"> \
@@ -235,7 +235,7 @@ $(document).ready(function() {
   // Add Opacity control
   var opacity = L.control({position: 'bottomleft'});
   opacity.onAdd = function (map) {
-    
+
     var div = L.DomUtil.create('div', 'control-custom range');
     div.innerHTML = '<h4>Opacity</h4>';
     div.innerHTML += '<input id="rangeSlider" type="range" min="0" max="100" value="100">';
@@ -252,21 +252,12 @@ $(document).ready(function() {
     if (choroplethLayer) {
       choroplethLayer.setStyle(style);
       // Sync legend colors with opacity slider
-      //legend.update(); 
-      
+      //legend.update();
+
       // Manually trigger "moveend" so that hash updates, without really moving
       map.setZoom(map.getZoom());
     }
   })
-
-  
-  // Add a star to Hartford
-  var starIcon = L.icon({
-    iconUrl: 'img/star-18.png',
-    iconRetinaUrl: 'img/star-18@2x.png',
-    iconSize: [18, 18]
-  });
-  L.marker([41.7646, -72.6823], {icon: starIcon}).addTo(map);
 
   var hash = new L.Hash(map);
 

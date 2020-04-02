@@ -1,13 +1,10 @@
 .interactiveContainer {
     width: 100%;
+    height: 100%;
     font-family: Arial, sans-serif;
 }
-/* Edit top to fit tabBar height: 35px */
-/* Edit height to display full map 500px, limited due to zoom level for Hartford County */
+
 #map {
-    position: absolute;
-    left: 0;
-    top: 35px;
     width: 100%;
     height: 500px;
 }

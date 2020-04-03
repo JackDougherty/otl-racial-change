@@ -37,6 +37,8 @@ $(document).ready(function() {
     <a href="http://cartodb.com/attributions">CartoDB</a>'
   }).addTo(map);
 
+  L.control.scale().addTo(map);
+
   // Add town boundaries geojson layer
   $.getJSON('layers/towns.geojson', function (data) {
     townBoundariesLayer = L.geoJson(data, {

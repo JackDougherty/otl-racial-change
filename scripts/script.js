@@ -125,7 +125,16 @@ $(document).ready(function() {
         + (props.num || '')
         + '</h2>';
 
-      this._div.innerHTML += '<p>' + props.pctwnh + '% White (non-Hispanic)</p>';
+      // In the info window, we want to display
+      // "X % White" for 1900 thru 1950
+      // "X % White (non-Hispanic)" for 1960 thru 1990
+      // "X % White alone (non-Hispanic) for 2000 onward
+      var year = parseInt($('.tabItem.selected').html());
+      var whiteSuffix = '';
+      var whiteSuffix = year >= 1960 && year <= 1990 ? '(non-Hispanic)' : whiteSuffix;
+      whiteSuffix = year >= 2000 ? 'alone (non-Hispanic)' : whiteSuffix;
+
+      this._div.innerHTML += '<p>' + props.pctwnh + '% White ' + whiteSuffix + '</p>';
       this._div.innerHTML += '<p style="margin-bottom: 7px;">' + props.pop.toLocaleString() + ' population</p>';
 
       for (var prop in props) {
